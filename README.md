@@ -6,14 +6,9 @@ Powered by NVIDIA GauGAN® / NVIDIA Canvas
 
 Picasso allows you to input any image, this image is going to be processed by an Artificial Inteligence from Nvidia, and it will output another image, based on the first one.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
 ## Features
 
 - Generate an image using another image
-- Generate an image using a base text `#TODO`
 
 ## Flow
 1. Reads all the image files inside input_images folder
